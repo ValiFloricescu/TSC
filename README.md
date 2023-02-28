@@ -9,4 +9,3 @@ Tools:
 
 De verificat, accesat si cercetat link-urile de pe canalul de Slack
 De verificat constant canalul de Slack
-
