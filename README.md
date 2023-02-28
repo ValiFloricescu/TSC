@@ -19,3 +19,8 @@ git config --global --list
 
  git config --global credential.helper store
         Intruieste git
+
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+
+git clone
